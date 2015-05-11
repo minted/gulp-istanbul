@@ -8,7 +8,7 @@ var gulp = require('gulp');
 var istanbul = require('../');
 var isparta = require('isparta');
 var mocha = require('gulp-mocha');
-var Report = require('istanbul').Report;
+var Report = require('babel-istanbul').Report;
 
 var out = process.stdout.write.bind(process.stdout);
 
