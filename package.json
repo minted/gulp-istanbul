@@ -31,7 +31,7 @@
     "gulp-util": "^3.0.1",
     "babel-istanbul": "ambitioninc/babel-istanbul",
     "istanbul-threshold-checker": "^0.1.0",
-    "lodash": "^3.0.1",
+    "lodash": "^4.17.20",
     "through2": "^0.6.3"
   },
   "devDependencies": {
